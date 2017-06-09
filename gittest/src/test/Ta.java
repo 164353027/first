@@ -6,5 +6,6 @@ public class Ta {
 		Ta ta=new Ta();
 		ta.print(3);
 		ta.print(4);
+		ta.print(5);
 	}
 }
