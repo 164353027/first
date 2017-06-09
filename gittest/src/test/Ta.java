@@ -5,5 +5,6 @@ public class Ta {
 	public static void main(String[] args) {
 		Ta ta=new Ta();
 		ta.print(3);
+		ta.print(4);
 	}
 }
