@@ -7,5 +7,6 @@ public class Ta {
 		ta.print(3);
 		ta.print(4);
 		ta.print(5);
+		ta.print(6);
 	}
 }
